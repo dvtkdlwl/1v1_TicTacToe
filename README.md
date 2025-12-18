@@ -15,4 +15,4 @@ Make sure Python 3 is installed, then run:
 
 
 ```bash
-python tictactoe.py
+python TTTGame.py
