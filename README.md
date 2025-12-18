@@ -30,12 +30,11 @@ Have now built upon this and created a version which allows the user to play aga
 
 2. Navigate into the project folder:
     ```bash
-    cd 1v1_TicTacToe.git
+    cd 1v1_TicTacToe
 
 3. Run the game:
     ```bash
     python TTTGame.py
-
 
 ## How to Play
 
