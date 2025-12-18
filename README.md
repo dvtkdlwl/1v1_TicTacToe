@@ -4,7 +4,7 @@ A simple terminal-based Tic Tac Toe game written in Python.
 Two players take turns playing on the same keyboard.
 
 
-Have now built upon this and created a version which allows the user to play against AI. Find it [here](https://github.com/dvtkdlwl/tic-tac-toe-ai).
+Have now built upon this and created a version which allows the user to play against AI. Find it [here](https://github.com/dvtkdlwl/AI_TicTacToe).
 
 ---
 
